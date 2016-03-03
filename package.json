@@ -1,0 +1,18 @@
+{
+  "author": "Seth Fitzsimmons <seth@mojodna.net>, Eric Socolofsky <eric@transmote.com>",
+  "name": "cors-proxy",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node server.js 'http://www.wrh.noaa.gov/mesowest/mwXJList.php'"
+  },
+  "dependencies": {
+    "compression": "^1.6.1",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">=5.7.x",
+    "npm": ">=1.1.x"
+  }
+}
