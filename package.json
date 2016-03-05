@@ -2,6 +2,7 @@
   "author": "Seth Fitzsimmons <seth@mojodna.net>, Eric Socolofsky <eric@transmote.com>",
   "name": "cors-proxy",
   "version": "0.0.2",
+  "main": "server.js",
   "dependencies": {
     "compression": "^1.6.1",
     "express": "^4.13.4"
