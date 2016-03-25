@@ -1,5 +1,6 @@
 {
   "nws-current": "http://www.wrh.noaa.gov/mesowest/mwXJList.php",
   "nws-historical": "http://www.wrh.noaa.gov/mesowest/getobextJson.php",
-  "nws-forecast": "http://forecast.weather.gov/MapClick.php"
+  "nws-forecast": "http://forecast.weather.gov/MapClick.php",
+  "usgs-waterdata": "http://waterdata.usgs.gov/ca/nwis/uv"
 }
