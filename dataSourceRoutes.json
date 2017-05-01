@@ -3,5 +3,7 @@
   "nws-historical": "http://www.wrh.noaa.gov/mesowest/getobextJson.php",
   "nws-forecast": "http://forecast.weather.gov/MapClick.php",
   "nws-forecast-hourly": "http://www.wrh.noaa.gov/forecast/xml/xml.php",
-  "usgs-waterdata": "http://waterdata.usgs.gov/ca/nwis/uv"
+  "usgs-waterdata": "http://waterdata.usgs.gov/ca/nwis/uv",
+  "noaa-coops-api": "https://tidesandcurrents.noaa.gov/api/datagetter",
+  "noaa-cp-dl": "https://tidesandcurrents.noaa.gov/noaacurrents/DownloadPredictions"
 }
